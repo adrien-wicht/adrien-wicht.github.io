@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I have officially graduated with a PhD in Economics from the European University Institute! 🎓✨
+I have officially graduated with a PhD in Economics from the European University Institute!
