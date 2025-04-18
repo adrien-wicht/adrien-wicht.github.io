@@ -2,6 +2,8 @@
 layout: about
 title: about
 permalink: /
+redirect_from:
+ - /profile
 subtitle: <a href='https://wwz.unibas.ch/en/international-macroeconomics/'>University of Basel</a>. Basel, Switzerland. Contact and affiliations.
 
 profile:
