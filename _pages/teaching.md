@@ -2,11 +2,17 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Teaching record and course materials.
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+### University of Basel
 
-Organize your courses by years, topics, or universities, however you like!
+**Spring 2025**  
+**International Money and Finance** (Bachelor course)
+
+**Fall 2024**  
+**Advanced International Macroeconomics** (Master course)
+
+Materials will be made available to enrolled students through the university's course platform. Topics include sovereign debt, open economy macroeconomics, monetary policy, and international financial markets.

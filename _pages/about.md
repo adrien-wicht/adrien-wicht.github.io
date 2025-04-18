@@ -22,10 +22,6 @@ announcements:
   scrollable: true
   limit: 5
 
-latest_posts:
-  enabled: true
-  scrollable: true
-  limit: 3
 ---
 
 I am a Postdoctoral Researcher in International Economics at the University of Basel. My research interests lie at the intersection of **macroeconomics**, **international economics**, **sovereign debt**, and **recursive contracts**. I completed my PhD at the European University Institute in 2024, where I was supervised by Ramon Marimon and Alexander Monge-Naranjo.
