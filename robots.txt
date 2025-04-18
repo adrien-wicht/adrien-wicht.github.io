@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://adrien-wicht.github.io/profile/sitemap.xml
+Sitemap: https://adrien-wicht.github.io/sitemap.xml
