@@ -8,7 +8,7 @@ subtitle: <a href='https://wwz.unibas.ch/en/international-macroeconomics/'>Unive
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.png
   image_circular: false
   more_info: >
     <p>Department of International Macroeconomics</p>
