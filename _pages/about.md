@@ -3,7 +3,8 @@ layout: about
 title: about
 permalink: /
 redirect_from:
- - /profile/
+  - /profile/
+  - /profile
 subtitle: <a href='https://wwz.unibas.ch/en/international-macroeconomics/'>University of Basel</a>. Basel, Switzerland. Contact and affiliations.
 
 profile:
@@ -23,13 +24,12 @@ announcements:
   enabled: true
   scrollable: true
   limit: 5
-
 ---
 
 I am a Postdoctoral Researcher in International Economics at the University of Basel. My research interests lie at the intersection of **macroeconomics**, **international economics**, **sovereign debt**, and **recursive contracts**. I completed my PhD at the European University Institute in 2024, where I was supervised by Ramon Marimon and Alexander Monge-Naranjo.
 
-Previously, I held visiting and research positions at the University of Pennsylvania, the European Stability Mechanism, and the Swiss National Bank. My work has been published in the *Journal of International Economics* and the *Review of Economic Dynamics*, and includes ongoing projects on sovereign debt maturity, fiscal and environmental policy under limited commitment, and financial stability mechanisms.
+Previously, I held visiting and research positions at the University of Pennsylvania, the European Stability Mechanism, and the Swiss National Bank. My work has been published in the _Journal of International Economics_ and the _Review of Economic Dynamics_, and includes ongoing projects on sovereign debt maturity, fiscal and environmental policy under limited commitment, and financial stability mechanisms.
 
 My current teaching includes courses on **Advanced International Macroeconomics** (Fall 2024) and **International Money and Finance** (Spring 2025) at the University of Basel.
 
-You can find a full list of publications [here](/publications/) 
+You can find a full list of publications [here](/publications/)
