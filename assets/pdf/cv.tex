@@ -1,0 +1,369 @@
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[pdftex]{hyperref}
+\usepackage{fancyhdr}
+\usepackage{booktabs}
+\usepackage[document]{ragged2e}
+%\usepackage[            bookmarks=true,            pdfstartview=FitH,            breaklinks=true,            colorlinks=true,            citecolor=blue,     urlcolor  = blue,       pagebackref=false]{hyperref}
+
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.375in}
+\addtolength{\evensidemargin}{-0.375in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1in}
+
+\urlstyle{rm}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[2]{
+  \item\small{
+    \textbf{#1}{: #2 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeItemWithoutTitle}[1]{
+  \item\small{
+    {\vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-1pt}\item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-5pt}
+}
+
+
+\newcommand{\resumeSubItem}[2]{\resumeItem{#1}{#2}\vspace{-1pt}}
+
+\renewcommand{\labelitemii}{$\circ$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=*]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-------------------------------------------
+%%%%%%  CV STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{document}
+
+%----------HEADING-----------------
+\begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+	\textbf{{\LARGE Adrien Wicht}} & Email : \href{mailto:adrien.wicht@unibas.ch}{adrien.wicht@unibas.ch}\\
+	ORCID : 0009-0000-3808-2783 \\
+	Personal Website : \href{https://adrien-wicht.github.io/profile/}{https://adrien-wicht.github.io/profile/} \\
+	\href{https://scholar.google.com/citations?hl=en\&user=lly9TBsAAAAJ}{Citations Google Scholar}
+\end{tabular*}
+%
+%--------RESEARCH INTERESTS------------
+\section{Research Interests}
+ { Macroeconomics, International Economics, Sovereign Debt, Recursive Contracts.}
+
+%
+%--------REFERENCES------------
+\section{References}
+
+\begin{tabular}{lr}
+	% Referee 1
+	\begin{minipage}[t]{2.9in}
+		Ramon Marimon \\
+		Universitat Pompeu Fabra \\
+		\href{mailto:ramon.marimon@upf.edu}{ramon.marimon@upf.edu} \\
+		+34 935422641
+	\end{minipage}
+	 &
+	% Referee 2
+	\begin{minipage}[t]{2.9in}
+		Alexander Monge-Naranjo \\
+		European University Institute \\
+		\href{mailto:alexander.monge-naranjo@eui.eu}{alexander.monge-naranjo@eui.eu} \\
+		+39 0554685942
+	\end{minipage}
+
+	% Additional newline for spacing.
+	% Referee 3
+	\begin{minipage}[t]{2.9in}
+		Andreas M\"{u}ller \\
+		University of Basel\\
+		\href{mailto:andi.mueller@unibas.ch}{andi.mueller@unibas.ch} \\
+		+41 612076768\\
+	\end{minipage}
+\end{tabular}
+
+%\vspace{-2mm}
+
+%-----------APPOINTMENTS-----------------
+\section{Current and Past Appointments}
+\resumeSubHeadingListStart
+
+\resumeSubheading
+{University of Basel}{Basel, CH}
+{Postdoc in International Economics}{11.23 -- Current}
+
+{\scriptsize \textit{Principal Investigator: Andreas M\"{u}ller.}}
+
+\resumeSubheading
+{European Stability Mechanism}{Remote}
+{External Advisor}{04.23 -- 10.23}
+
+{\scriptsize \textit{Head of unit: Giovanni Callegari.}}
+
+\resumeSubheading
+{University of Pennsylvania}{Philadelphia, US}
+{Visiting Scholar}{09.21 -- 02.22}
+
+{\scriptsize \textit{Sponsor: Dirk Krueger.}}
+
+\resumeSubheading
+{Robert Schuman Center for Advanced Studies, European University Institute}{Florence, IT}
+{Research Assistant}{09.20 -- 08.21}
+
+\resumeSubheading
+{International Policy Analysis Unit, Swiss National Bank}{Zurich, CH}
+{Research Assistant}{07.17 -- 07.18}
+
+{\scriptsize \textit{Head of unit: Alain Gabler.}}
+
+\resumeSubHeadingListEnd
+
+%-----------EDUCATION-----------------
+\section{Education}
+\resumeSubHeadingListStart
+
+
+\resumeSubheading
+{European University Institute}{Florence, IT}
+{PhD in Economics}{08.19-- 02.24}
+
+{\scriptsize \textit{Examining Board: Ramon Marimon, Alexander Monge-Naranjo,  Mark Aguiar, Yan Bai.}}
+
+\resumeSubheading
+{European University Institute}{Florence, IT}
+{MRes in Economics}{08.18 -- 07.19}
+
+\resumeSubheading
+{University of Zurich}{Zurich, CH}
+{MA in Economics}{09.15 -- 07.17}
+
+\resumeSubheading
+{University of Fribourg}{Fribourg, CH}
+{BA in Economics}{09.11 -- 06.14}
+
+% \resumeSubheading
+%{Coll\`{e}ge Sainte-Croix}{Fribourg, CH}
+% {Maturity with Major in Law and Economics}{08.07 -- 07.11}
+
+\resumeSubHeadingListEnd
+
+
+%-----------JOBMARKETPAPER-----------------
+\section{Job Market Paper}
+\resumeSubHeadingListStart
+\resumeSubItem{Efficient Sovereign Debt Buybacks, 2025}{\justifying This paper explores the conditions under which sovereign debt buybacks are Pareto efficient, challenging the conventional view that such operations are detrimental to sovereign borrowers. Using a model of strategic lending, I show that buybacks can be rationalized as part of an optimal contract between a sovereign borrower and foreign lenders. In particular, buybacks allow bonds to function like Arrow securities. This is because they take place in the secondary market, where only legacy lenders operate, granting them market power, as opposed to the primary market, where new entrants ensure competitive returns. The model aligns with the recent empirical evidence in Brazil, including a premium paid on buyback operations. These findings offer insights into sovereign debt management and the implementation of optimal contracts.
+}
+\resumeSubHeadingListEnd
+
+%-----------PUBLISHED-----------------
+\section{Published Work}
+\resumeSubHeadingListStart
+%%
+\resumeSubItem{Making Sovereign Debt Safe with a Financial Stability Fund (joint with Yan Liu and Ramon Marimon), 2023}{Journal of International Economics, Vol. 145, \href{https://www.sciencedirect.com/science/article/pii/S0022199623001204}{link}. } % \justifying We develop an optimal design of a Financial Stability Fund that coexists with the international debt market. The sovereign can borrow defaultable bonds on the private international market, while having with the Fund a long-term contingent contract subject to limited enforcement constraints. The Fund contract does not have \emph{ex ante} conditionality, but requires an accurate country-specific risk-assessment (DSA), accounting for the Fund contract. The Fund periodically announces the level of liabilities the country can sustain to achieve the constrained efficient allocation. The Fund is only required \emph{minimal absorption} of the sovereign debt, but it must provide insurance (Arrow-securities) to the country. Furthermore, with the Fund \emph{all sovereign debt is safe independently of the seniority structure}; however, for the Fund, seniority may require a greater \emph{minimal absorption} than a \emph{pari passu} regime. We calibrate our model to the Italian economy and show it would have had a more efficient path of debt accumulation with the Fund.}
+%%
+\resumeSubItem{On a Lender of Last Resort with a Central Bank and a Stability Fund (joint with Giovanni Callegari, Ramon Marimon and Luca Zavalloni), 2023}{ Review of Economic Dynamics, Vol. 50, pp. 106-130, \href{https://www.sciencedirect.com/science/article/pii/S1094202523000443?via\%3Dihub}{link}. }%\justifying We explore the complementarity between a central bank and a financial stability Fund in stabilizing sovereign debt markets. The central bank pursuing its mandate can intervene with public sector purchasing programs, buying sovereign debt in the secondary market, provided that the debt is safe. The sovereign sells its debt to private lenders, through market auctions. Furthermore, it has access to a long-term state-contingent contract with a Fund: a country-specific debt-and-insurance contract that accounts for no-default and no-over-lending constraints. The Fund needs to guarantee gross-financial-needs and no-over-lending. We show that these constraints endogenously determine the \textquoteleft optimal debt maturity\textquoteright\, structure that minimizes the Required Fund Capacity (RFC) to make all sovereign debt safe. However, the Fund may have limited absorption capacity and fall short of its RFC. The central bank may be able to cover the difference, in which case there is perfect complementarity and the joint institutions act as an effective \textquoteleft lender of last resort\textquoteright. We calibrate our model to the Italian economy and find that with a Fund contract its \textquoteleft optimal debt maturity\textquoteright\, is 2.9 years with an RFC of 90\% of GDP, which is above what the European Stability Mechanism (ESM) could reasonably absorb, but may be feasible with an ECB \emph{Transmission Protection Instrument} (TPI) intervention. In contrast, the average maturity of Italian sovereign debt has been circa 6.2 years, with a needed absorption capacity of around $105\%$ of GDP, which may call for a maturity restructuring to ease the activation of TPI.}
+%%
+\resumeSubItem{Demographics and the Current Account (joint with Joschka Gerigk and Miriam Rinawi), 2018}{Aussenwirtschaft, Vol. 69(1), pp. 45-76, \href{https://ux-tauri.unisg.ch/RePEc/usg/auswrt/AW_69-01__03_Gerigk-Rinawi-Wicht.pdf}{link}. }%\justifying This paper investigates the relationship between demographics and the current account. We analyze the impact of recent demographic changes and provide a forecast of its future impact. Overall, we find a strong and robust, non-linear demographic effect. In particular, we find a positive association between the current account and the share of a population’s prime-age individuals and a negative association with the share of the elderly. Our forecast suggests that, given the dramatically aging population in most industrialized countries, demographics will likely decrease the current account balance in the near future in those countries.}
+\resumeSubHeadingListEnd
+
+%-----------WORKINPROGRESS-----------------
+\section{Current Work and Working Papers}
+\resumeSubHeadingListStart
+\resumeSubItem{Seniority and Sovereign Default: The Role of Official Multilateral Lenders, 2024}{R\&R Journal of International Economics.} %{ \justifying This paper studies official multilateral lending in the sovereign debt market. Official multilateral debt receives priority in repayment, even though this is not legally required. It represents an important portion of total sovereign debt and increases both before and during a default. Defaults on official multilateral debt are infrequent, last relatively longer and are associated with greater private lenders losses. I develop a model with private and official multilateral lenders where the latter benefits from a greater enforcement power in repayment. This allows the model to rationalize the aforementioned empirical facts and generates non-monotonicity in the private bond price. In small amount, official multilateral debt has a positive catalytic effect which is quantitatively strong but short lived. Sovereign borrowers value the use of official multilateral debt and would not necessarily prefer other seniority regimes.}
+%%
+\resumeSubItem{Commitment in the Canonical Sovereign Default Model (joint with Xavier Mateos-Planas, Sean McCrary and Jose-Victor Rios-Rull), 2025}{R\&R Journal of International Economics.} %{\justifying We study the role of lack commitment in shaping the allocations of  the canonical incomplete-markets sovereign default model of Eaton and Gersovitz (1981).  We show how the equilibrium with  commitment to the circumstances under which default can be  undertaken involves a very different set of functional equations  than in the equilibrium without commitment. In  practice, under commitment default does not exist in all but very  extreme quantitative environments.  We document how the standard  specification of Arellano (2008) displays no default if there is  commitment, even in the absence of both utility cost and exclusion from borrowing. While less standard specifications can produce some  default under commitment, we provide examples that demonstrate how rare default is. We interpret default as a recourse of last resort.}
+%%
+\resumeSubItem{The Generalized Euler Equation and the Bankruptcy-Sovereign Default Problem (joint with Xavier Mateos-Planas, Sean McCrary and Jose-Victor Rios-Rull), 2023}{ R\&R Journal of Political Economy: Macro.}%{ \justifying We characterize the equilibrium of the standard sovereign  default model where a risk-averse borrower issues long-term non-contigent bonds but cannot commit its future selves to repay. We  show existence and uniqueness of the Markov equilibrium of the  dynamic game with successive borrowers that is associated to this  environment.  We show that the price and policy functions exhibit jumps and kinks in various places. A suitable choice of arbitrary  small noise yields price and policy functions that are  differentiable almost everywhere which allows us to characterize the  equilibrium using only decision rules of the agents by means of a set of functional equations. Further, we describe the equilibrium  objects via an Euler equation with derivatives on future actions  ---i.e. a generalized Euler equation (GEE) where the effects due to default and those to dilution can be disentangled.  Computational  strategies using these functional equations allow for solving the  model with continuous functions using policy iterations. A  sufficient variance of the noise allows for concavity and hence  unique solution of the GEE which eases computation.}
+%%
+\resumeSubItem{Risk Sharing and Risk Reduction with Moral Hazard (joint with Ramon Marimon and Luca Zavalloni), 2024}{Working paper.} %{ \justifying We study the design a Financial Stability Fund under different provisions of incentives.More precisely, we generalize the flexible moral hazard approach of Georgiadis et al. (2024) indynamic models and contrast it with the canonical dynamic moral hazard model of Atkesonand Lucas (1992). The provision of incentives under flexible moral hazard does not rely on the realized outcome. This has two main consequences. On the one hand, the optimal contract features bliss as opposed to immiseration. On the other hand, flexible moral hazard does not disrupt risk-sharing. We bridge the flexible and the canonical approach by back-loading incentives. This allows for perfect risk-sharing for spans of time (e.g. until limited enforcement constraints bind) and is a source of welfare gains for the borrower. We also analyze a restricted version of the flexible moral hazard. This framework provides a level playing field to compare the different Fund contracts. Our simulations show that restricted-flexible and canonical-back-loaded contracts are distinct but similar in their performance. }
+%%
+\resumeSubItem{Fiscal and Environmental Policy under Limited Commitment, 2024}{Work in progress.} %{This paper derives the optimal fiscal and environmental policy under limited commitment. A government decides how to allocate resources between a polluting production technology and environment protection. There is a fixed environmental capital which stochastically depreciates with pollution and stochastically expands with environmental actions. The government can issue debt to finance its budget but cannot commit to any fiscal or environmental policy. I find that, in periods of financial distress, the government decides to deplete the environmental capital to avoid reduction in consumption. As the environmental capital depreciates stochastically with pollution, the government effectively gambles over the future state of the environment. I analyze recent shifts in the environmental policies of selected countries and connect them with a measure of fiscal tightness. There is evidence that such countries loosen their environmental policy when facing a larger fiscal burden.}
+%%
+\resumeSubItem{Sovereign Debt Maturity and the Political Process (joint with Darius Adlung and Andreas M\"{u}ller), 2024}{Work in progress.}
+\resumeSubHeadingListEnd
+
+%-----------POLICYPAPERS-----------------
+\section{Policy Papers}
+\resumeSubHeadingListStart
+\resumeSubItem{Euro Area fiscal policies and capacity in post-pandemic times (joint with Ramon Marimon), 2021}{ \justifying The main legacy of the post-Covid-19-crisis euro area fiscal framework should be the development of a unique integrated fiscal policy and of a permanent and independent Fiscal Fund to implement it. To arrive at this conclusion, we analyse the challenges and build on current research on the optimal design of a fiscal fund. We characterise the fiscal policy, and the development of the Fund, together with the role and form that the Stability and Growth Pact can take in the new fiscal framework.}
+\resumeSubHeadingListEnd
+
+%-----------TEACHING-----------------
+
+\section{Teaching}
+\resumeSubHeadingListStart
+
+\resumeSubheading
+{Advanced International Macroeconomics}{Basel, CH}
+{Master course}{09.24 -- 12.24}
+
+\resumeSubheading
+{International Money and Finance (scheduled)}{Basel, CH}
+{Bachelor course}{02.25 -- 05.25}
+
+\resumeSubHeadingListEnd
+%-----------TA-----------------
+
+%\section{Teaching Assistance}
+%  \resumeSubHeadingListStart
+
+%  \resumeSubheading
+%    {Macro-Finance and Policy Design}{Florence, IT}
+%    {PhD elective course. Instructor: Ramon Marimon.}{09.23 -- 11.23; 09.22 -- 11.22; 04.20 -- 06.20}
+
+%   \resumeSubheading
+%    {Macroeconomics III -- Part. 2: Incomplete Markets}{Florence, IT}
+%    {PhD core course. Instructor: Alexander Monge-Naranjo.}{04.23 -- 06.23}
+
+%    \resumeSubheading
+%    {Macroeconomics II}{Florence, IT}
+%    {PhD core course. Instructor: Jes\'{u}s Bueren.}{01.20 -- 03.20}
+
+%\resumeSubHeadingListEnd
+
+%-----------RA-----------------
+
+%\section{Research Assistance}
+% \resumeSubHeadingListStart
+%  \resumeSubheading
+%    {European Stability Mechanism}{Remote}
+%    {Head of unit: Giovanni Callegari.}{04.23 -- 10.23}
+%    \begin{itemize}
+%        \item{Support members of staff in developing models under the IDEA Project.}
+%    	 \item{Software programming and calibration.}
+%    \end{itemize}
+%  
+%    \resumeSubheading
+%    {Robert Schuman Center of Advance Studies, European University Institute}{Florence, IT}
+%    {Advisor: Ramon Marimon.}{09.20 -- 08.21}
+%    \begin{itemize}
+%        \item{Development and computation of dynamic macroeconomic models.}
+%    	 \item{Data gathering, software programming and calibration.}
+%     \end{itemize}
+%      
+%	\resumeSubheading
+%    {International Policy Analysis Unit, Swiss National Bank}{Zurich, CH}
+%    {Head of unit: Alain Gabler.}{07.17 -- 07.18}
+%    \begin{itemize}
+%        \item{Database management, data processing and analysis.}
+%	 \item{Involvement in policy-relevant research.}
+%     \end{itemize}
+%\resumeSubHeadingListEnd
+
+%-----------CONFERENCES-----------------
+\section{Conferences, Seminars and Workshops}
+\resumeSubHeadingListStart
+\resumeSubItem{2025 (scheduled)}{University of Hamburg, IMF Seminar Series.}
+\resumeSubItem{2024}{European University Institute, University of Basel, EEA Meeting, IMF Sovereign Debt Workshop, University of Konstanz, CEPR Paris Symposium.}
+\resumeSubItem{2023}{European University Institute, Second PhD Workshop in Money and Finance at Sveriges Riksbank, 5th QMUL Economics and Finance Workshop, BSE Summer Forum (ADEMU Workshop), SED Annual Meeting, XXVI Workshop on Dynamic Macroeconomics in Vigo, EEA Meeting, Joint Banque de France and EUI Conference.}
+\resumeSubItem{2022}{European University Institute, RIEF Conference, DebtCon5, BSE Summer Forum (ADEMU Workshop), SED annual Meeting, 17th End-of-Year Conference of Swiss Economists Abroad.}
+\resumeSubItem{2021}{European University Institute, University of Pennsylvania, Federal Reserve Bank of Philadelphia.}
+\resumeSubItem{2020}{European University Institute, ADEMU Workshop.}
+\resumeSubHeadingListEnd
+
+%
+%--------ADDITIONAL COURSES------------
+%\section{Additional Coursework}
+
+%\resumeSubHeadingListStart
+
+% \resumeSubheading
+%{Florence School of Banking and Finance}{Florence, IT}
+%{Sovereign Debt Risks}{23.05.22 -- 25.05.22}
+
+%{\scriptsize \textit{Instructor: Lee Buchheit, Mitu Gulati and Ugo Panizza.}}
+
+% \resumeSubheading
+% {Study Center Gerzensee}{Gerzensee, CH}
+% {An Introduction to Macro-Finance}{02.05.22 -- 06.05.22}
+
+% {\scriptsize \textit{Instructor: Atif Mian.}}
+
+
+%\resumeSubheading
+% {University of Pennsylvania}{Philadelphia, US}
+% {International Macroeconomics with Financial Frictions}{08.21 -- 12.21}
+
+% {\scriptsize \textit{Instructor: Enrique Mendoza.}}
+
+% \resumeSubheading
+%{University of Pennsylvania}{Philadelphia, US}
+%{Topics in Macroeconomic Theory}{08.21 -- 12.21}
+
+% {\scriptsize \textit{Instructor: Alessandro Dovis.}}
+
+% \resumeSubheading
+%{Euro Area Business Cycle Network}{Online}
+%%{Continuous Time Methods in Macroeconomics}{28.09.20 -- 30.09.20}
+
+%{\scriptsize \textit{Instructor: Jes\'{u}s Fern\'{a}ndez-Villaverde and Galo Nu\~{n}o.}}
+
+
+%\resumeSubHeadingListEnd
+
+%-----------REFEREE-----------------
+\section{Refereeing}
+\begin{description}[font=$\bullet$]
+	\item {Journal of Economic Dynamics and Control, Australian Economic Papers, Harvard Peer Pre-Review Program.}
+\end{description}
+
+%-----------AWARDS-----------------
+\section{Awards and Grants}
+\begin{description}[font=$\bullet$]
+	\item {Vilfredo Pareto Prize Award, European University Institute, 2024.}
+	\item {Doc Mobility Grant, Swiss National Science Foundation, 09.21-02.22.}
+	\item {EUI PhD Grant, Swiss Grant-awarding Authority, 2018-2022.}
+	\item {The Ernst \& Young Award, University of Fribourg, Best Bachelor of Arts in Economics, 2014.}
+	\item {Prix de la Banque Cantonale de Fribourg, Coll\`{e}ge Sainte-Croix, Best GPA in Law \& Economics, 2011.}
+	\item {Prix du Fonds Tesch, Coll\`{e}ge Sainte-Croix, Best GPA in the French-speaking section, 2011.}
+\end{description}
+
+
+%
+%--------PROGRAMMING SKILLS------------
+\section{Skills Summary}
+\resumeSubHeadingListStart
+\resumeSubItem{Languages}{French (native), German (fluent), Swiss German (fluent), English (fluent), Italian (intermediate).}
+\resumeSubItem{Text editors}{Latex, MS Office and Apple applications.}
+\resumeSubItem{Software}{Excel VBA, Fortran, Julia, Matlab, MySQL, OpenAI ChatGPT, OpenMP, QGIS, R, Stata.}
+\resumeSubHeadingListEnd
+
+%-------------------------------------------
+\end{document}
