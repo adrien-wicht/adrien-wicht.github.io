@@ -1,11 +1,11 @@
 ---
 layout: cv
-permalink: /cv/
 title: cv
+permalink: /cv/
 nav: true
 nav_order: 5
-cv_pdf: cv.pdf # you can also use external links here
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+cv_pdf: /assets/pdf/cv.pdf # adjust if needed; supports external links too
+description: A downloadable version of my academic CV. You can edit this text in '_pages/cv.md'.
 toc:
   sidebar: left
 ---
