@@ -2,9 +2,9 @@
   "basics": {
     "name": "Adrien Wicht",
     "label": "Economist",
-    "image": "",
+    "image": "/assets/img/prof_pic_color.png",
     "email": "adrien.wicht@unibas.ch",
-    "url": "https://adrien-wicht.github.io/profile/",
+    "url": "https://adrien-wicht.github.io/",
     "summary": "Postdoctoral researcher in international economics. Research focuses on sovereign debt, macroeconomics, recursive contracts, and international finance.",
     "location": {
       "address": "",
