@@ -32,4 +32,4 @@ Previously, I held visiting and research positions at the University of Pennsylv
 
 My current teaching includes courses on **Advanced International Macroeconomics** and **International Money and Finance** at the University of Basel.
 
-You can find a full list of publications [here](/publications/)
+You can find a full list of publications [here](/research/)
