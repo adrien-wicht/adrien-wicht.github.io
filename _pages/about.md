@@ -12,7 +12,7 @@ profile:
   image: prof_pic.png
   image_circular: false
   more_info: >
-    <p>Department of International Macroeconomics</p>
+    <p>Faculty of Business and Economics</p>
     <p>University of Basel</p>
     <p>Peter Merian-Weg 6, 4052 Basel</p>
     <p><a href="mailto:adrien.wicht@unibas.ch">adrien.wicht@unibas.ch</a></p>
