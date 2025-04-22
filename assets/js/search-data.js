@@ -480,14 +480,14 @@ ninja.data = [{
         title: 'ORCID',
         section: 'Socials',
         handler: () => {
-          window.open("https://orcid.org/0000-0003-4564-929X", "_blank");
+          window.open("https://orcid.org/0009-0000-3808-2783", "_blank");
         },
       },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
+          window.open("https://scholar.google.com/citations?user=lly9TBsAAAAJ&hl", "_blank");
         },
       },{
         id: 'social-inspire',
