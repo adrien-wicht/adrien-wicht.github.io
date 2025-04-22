@@ -490,13 +490,6 @@ ninja.data = [{
           window.open("https://scholar.google.com/citations?user=lly9TBsAAAAJ&hl", "_blank");
         },
       },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
-        },
-      },{
         id: 'social-rss',
         title: 'RSS Feed',
         section: 'Socials',
