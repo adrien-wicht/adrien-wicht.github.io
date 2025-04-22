@@ -15,4 +15,4 @@ nav_order: 6
 **Fall 2024**  
 **Advanced International Macroeconomics** (Master course)
 
-Materials will be made available to enrolled students through the university's course platform. Topics include sovereign debt, open economy macroeconomics, monetary policy, and international financial markets.
+Materials will be made available to enrolled students through the university's course platform. Topics include balance of payments, open economy macroeconomics and international financial markets.
