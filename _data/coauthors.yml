@@ -1,21 +1,24 @@
 "marimon":
   - firstname: ["Ramon", "R."]
     url: https://www.eui.eu/people?id=ramon-marimon
+"liu":
+  - firstname: ["Yan", "Y."]
+    url: https://www.liuyanecon.com
 "mccrary":
-  - firstname: ["McCrary", "S."]
+  - firstname: ["Sean", "S."]
     url: https://www.seanmccrary.com
 "mateos-planas":
-  - firstname: ["Mateos-Planas", "X."]
+  - firstname: ["Xavier", "X."]
     url: https://sites.google.com/view/xmateosplanas
 "rios-rull":
-  - firstname: ["Rios-Rull", "J.-V."]
+  - firstname: ["Jose-Victor", "J.-V."]
     url: https://www.sas.upenn.edu/~vr0j/
 "muller":
-  - firstname: ["Muller", "A."]
+  - firstname: ["Andeas", "A."]
     url: https://sites.google.com/site/mrandreasmueller/
 "adlung":
-  - firstname: ["Adlung", "D."]
+  - firstname: ["Darius", "D."]
     url: https://wwz.unibas.ch/de/personen/darius-alexander-adlung/
 "callegari":
-  - firstname: ["Callegari", "G."]
+  - firstname: ["Giovanni", "G."]
     url: https://www.esm.europa.eu/profile/giovanni-callegari

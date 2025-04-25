@@ -297,7 +297,7 @@ scholar:
   group_by: type,year
   order: descending
   group_order: ascending,descending
-  type_order: [unpublished, article, techreport]
+  type_order: [article, unpublished, techreport]
   type_names:
     article: Publications
     techreport: Policy papers
