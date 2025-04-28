@@ -51,7 +51,7 @@
       "url": "",
       "startDate": "2021-09-01",
       "endDate": "2022-02-01",
-      "summary": "Sponsor: by Dirk Krueger.",
+      "summary": "Sponsor: Dirk Krueger.",
       "highlights": []
     },
     {
@@ -259,4 +259,14 @@
       "reference": "University of Basel, andi.mueller@unibas.ch, +41 612076768"
     }
   ],
+  "projects": [
+    {
+      "name": "Efficient Sovereign Debt Buybacks",
+      "summary": "Explores the conditions under which sovereign debt buybacks are Pareto efficient using a model of strategic lending.",
+      "highlights": ["Sovereign contract design", "Market power in secondary markets"],
+      "startDate": "2025-01-01",
+      "endDate": "2025-01-01",
+      "url": ""
+    }
+  ]
 }
