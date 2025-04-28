@@ -33,7 +33,7 @@
       "url": "",
       "startDate": "2023-11-01",
       "endDate": "",
-      "summary": "Postdoctoral researcher under Prof. Andreas Müller in the field of international economics.",
+      "summary": "Principal Investigator: Andreas Müller.",
       "highlights": []
     },
     {
@@ -42,7 +42,7 @@
       "url": "",
       "startDate": "2023-04-01",
       "endDate": "2023-10-01",
-      "summary": "Advised the institution on macroeconomic and fiscal topics under the supervision of Giovanni Callegari.",
+      "summary": "Head of Unit: Giovanni Callegari.",
       "highlights": []
     },
     {
@@ -51,25 +51,25 @@
       "url": "",
       "startDate": "2021-09-01",
       "endDate": "2022-02-01",
-      "summary": "Research visit sponsored by Dirk Krueger.",
+      "summary": "Sponsor: by Dirk Krueger.",
       "highlights": []
     },
     {
-      "name": "European University Institute",
+      "name": "Robert Schuman Center for Advanced Studies - European University Institute",
       "position": "Research Assistant",
       "url": "",
       "startDate": "2020-09-01",
       "endDate": "2021-08-01",
-      "summary": "Worked at the Robert Schuman Center for Advanced Studies.",
+      "summary": "",
       "highlights": []
     },
     {
-      "name": "Swiss National Bank",
+      "name": "International Policy Analysis Unit - Swiss National Bank",
       "position": "Research Assistant",
       "url": "",
       "startDate": "2017-07-01",
       "endDate": "2018-07-01",
-      "summary": "Worked in the International Policy Analysis Unit under Alain Gabler.",
+      "summary": "Head of Unit: Alain Gabler.",
       "highlights": []
     }
   ],
@@ -259,14 +259,4 @@
       "reference": "University of Basel, andi.mueller@unibas.ch, +41 612076768"
     }
   ],
-  "projects": [
-    {
-      "name": "Efficient Sovereign Debt Buybacks",
-      "summary": "Explores the conditions under which sovereign debt buybacks are Pareto efficient using a model of strategic lending.",
-      "highlights": ["Sovereign contract design", "Market power in secondary markets"],
-      "startDate": "2025-01-01",
-      "endDate": "2025-01-01",
-      "url": ""
-    }
-  ]
 }
