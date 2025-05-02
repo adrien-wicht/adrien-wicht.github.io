@@ -30,19 +30,14 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "news-i-join-the-university-of-basel-as-postdoctoral-researcher",
-          title: 'I join the University of Basel as Postdoctoral Researcher',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2%20copy/";
-            },},{id: "news-i-have-officially-graduated-with-a-phd-in-economics-from-the-european-university-institute",
+        },{id: "news-i-have-officially-graduated-with-a-phd-in-economics-from-the-european-university-institute",
           title: 'I have officially graduated with a PhD in Economics from the European University...',
           description: "",
           section: "News",},{id: "news-the-website-has-been-refreshed-using-a-more-modern-template",
           title: 'The website has been refreshed using a more modern template.',
           description: "",
-          section: "News",},{id: "news-announcement-2",
-          title: 'Announcement_2',
+          section: "News",},{id: "news-paper-published-in-the-journal-of-international-economics",
+          title: 'Paper Published in the Journal of International Economics',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
