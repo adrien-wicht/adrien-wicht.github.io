@@ -1,6 +1,5 @@
 ---
 layout: post
-title: Paper Published in the Journal of International Economics
 date: 2025-05-02 09:00:00 +0200
 inline: false
 related_posts: false
