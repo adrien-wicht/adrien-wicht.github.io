@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Website Refreshed"
-date: 2025-04-18 12:00:00 +0200
+date: 2025-08-21 12:00:00 +0200
 inline: true
 related_posts: false
 ---
 
-The website has been refreshed using a more modern template.
+I am presenting "Risk Sharing and Risk Reduction with Moral Hazard" joint with Ramon and Luca at the 2025 World Congress of the Econometric Society in Seoul.
