@@ -1,8 +1,10 @@
 ---
 layout: post
-date: 2024-06-15 10:00:00 +0200
+date: 2025-08-08 10:00:00 +0200
 inline: true
 related_posts: false
 ---
 
-I have officially graduated with a PhD in Economics from the European University Institute!
+My paper "Commitment in the canonical sovereign default model" joint with Xavier, Sean and Victor has been published in the **Journal of International Economics**.
+
+You can find the paper under my [Research](/research/) or directly on [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0022199625000765?via%3Dihub).
