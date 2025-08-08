@@ -30,16 +30,16 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "news-the-website-has-been-refreshed-using-a-more-modern-template",
-          title: 'The website has been refreshed using a more modern template.',
-          description: "",
-          section: "News",},{id: "news-announcement-2",
+        },{id: "news-announcement-2",
           title: 'Announcement_2',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
             },},{id: "news-our-paper-commitment-in-the-canonical-sovereign-default-model-together-with-xavier-sean-and-victor-has-been-published-in-the-journal-of-international-economics-you-can-find-the-paper-under-my-research-or-directly-on-sciencedirect",
           title: 'Our paper “Commitment in the canonical sovereign default model” together with Xavier, Sean...',
+          description: "",
+          section: "News",},{id: "news-i-am-presenting-risk-sharing-and-risk-reduction-with-moral-hazard-joint-with-ramon-and-luca-at-the-2025-world-congress-of-the-econometric-society-in-seoul",
+          title: 'I am presenting “Risk Sharing and Risk Reduction with Moral Hazard” joint with...',
           description: "",
           section: "News",},{
         id: 'social-email',
