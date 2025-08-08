@@ -35,10 +35,12 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-our-paper-commitment-in-the-canonical-sovereign-default-model-together-with-xavier-sean-and-victor-has-been-published-in-the-journal-of-international-economics-you-can-find-it-under-my-research-or-directly-on-sciencedirect",
-          title: 'Our paper “Commitment in the canonical sovereign default model” together with Xavier, Sean...',
+            },},{id: "news-another-paper-published-in-the-journal-of-international-economics",
+          title: '(Another) Paper Published in the Journal of International Economics',
           description: "",
-          section: "News",},{id: "news-i-am-presenting-risk-sharing-and-risk-reduction-with-moral-hazard-joint-with-ramon-and-luca-at-the-2025-world-congress-of-the-econometric-society-in-seoul",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_3/";
+            },},{id: "news-i-am-presenting-risk-sharing-and-risk-reduction-with-moral-hazard-joint-with-ramon-and-luca-at-the-2025-world-congress-of-the-econometric-society-in-seoul",
           title: 'I am presenting “Risk Sharing and Risk Reduction with Moral Hazard” joint with...',
           description: "",
           section: "News",},{
