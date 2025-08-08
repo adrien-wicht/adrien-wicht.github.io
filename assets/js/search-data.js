@@ -30,10 +30,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "news-i-have-officially-graduated-with-a-phd-in-economics-from-the-european-university-institute",
-          title: 'I have officially graduated with a PhD in Economics from the European University...',
-          description: "",
-          section: "News",},{id: "news-the-website-has-been-refreshed-using-a-more-modern-template",
+        },{id: "news-the-website-has-been-refreshed-using-a-more-modern-template",
           title: 'The website has been refreshed using a more modern template.',
           description: "",
           section: "News",},{id: "news-paper-published-in-the-journal-of-international-economics",
@@ -41,7 +38,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{
+            },},{id: "news-my-paper-commitment-in-the-canonical-sovereign-default-model-joint-with-xavier-sean-and-victor-has-been-published-in-the-journal-of-international-economics-you-can-find-the-paper-under-my-research-or-directly-on-sciencedirect",
+          title: 'My paper “Commitment in the canonical sovereign default model” joint with Xavier, Sean...',
+          description: "",
+          section: "News",},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
