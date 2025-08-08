@@ -33,13 +33,13 @@ ninja.data = [{
         },{id: "news-the-website-has-been-refreshed-using-a-more-modern-template",
           title: 'The website has been refreshed using a more modern template.',
           description: "",
-          section: "News",},{id: "news-paper-published-in-the-journal-of-international-economics",
-          title: 'Paper Published in the Journal of International Economics',
+          section: "News",},{id: "news-announcement-2",
+          title: 'Announcement_2',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-my-paper-commitment-in-the-canonical-sovereign-default-model-joint-with-xavier-sean-and-victor-has-been-published-in-the-journal-of-international-economics-you-can-find-the-paper-under-my-research-or-directly-on-sciencedirect",
-          title: 'My paper “Commitment in the canonical sovereign default model” joint with Xavier, Sean...',
+            },},{id: "news-our-paper-commitment-in-the-canonical-sovereign-default-model-together-with-xavier-sean-and-victor-has-been-published-in-the-journal-of-international-economics-you-can-find-the-paper-under-my-research-or-directly-on-sciencedirect",
+          title: 'Our paper “Commitment in the canonical sovereign default model” together with Xavier, Sean...',
           description: "",
           section: "News",},{
         id: 'social-email',
