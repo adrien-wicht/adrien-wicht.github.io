@@ -167,25 +167,38 @@
   "certificates": [],
   "publications": [
     {
+      "name": "Commitment in the Canonical Sovereign Default Model",
+      "publisher": "Journal of International Economics",
+      "releaseDate": "2025",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0022199625000765",
+      "summary": "Joint with Xavier Mateos-Planas, Sean McCrary, and Jose-Victor Rios-Rull"
+    },
+    {
+      "name": "Seniority and Sovereign Default: The Role of Official Multilateral Lenders",
+      "publisher": "Journal of International Economics",
+      "releaseDate": "2025",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0022199625000546"
+    },
+    {
       "name": "Making Sovereign Debt Safe with a Financial Stability Fund",
       "publisher": "Journal of International Economics",
-      "releaseDate": "2023-01-01",
+      "releaseDate": "2023",
       "url": "https://www.sciencedirect.com/science/article/pii/S0022199623001204",
       "summary": "Joint with Yan Liu and Ramon Marimon"
     },
     {
       "name": "On a Lender of Last Resort with a Central Bank and a Stability Fund",
       "publisher": "Review of Economic Dynamics",
-      "releaseDate": "2023-01-01",
+      "releaseDate": "2023",
       "url": "https://www.sciencedirect.com/science/article/pii/S1094202523000443?via%3Dihub",
       "summary": "Joint with Giovanni Callegari, Ramon Marimon, and Luca Zavalloni"
     },
     {
       "name": "Demographics and the Current Account",
       "publisher": "Aussenwirtschaft",
-      "releaseDate": "2018-01-01",
+      "releaseDate": "2018",
       "url": "https://ux-tauri.unisg.ch/RePEc/usg/auswrt/AW_69-01__03_Gerigk-Rinawi-Wicht.pdf",
-      "summary": "Joint with Joschka Gerigk and Miriam Rinawi"
+      "summary": "Joint with Joschka Gerigk, and Miriam Rinawi"
     }
   ],
   "skills": [
