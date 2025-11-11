@@ -28,7 +28,7 @@ announcements:
 
 I am a Postdoctoral Researcher in International Economics at the University of Basel. My research interests lie at the intersection of **macroeconomics**, **international economics**, **sovereign debt**, and **recursive contracts**. I completed my PhD at the European University Institute in 2024, where I was supervised by Ramon Marimon and Alexander Monge-Naranjo.
 
-Previously, I held visiting and research positions at the University of Pennsylvania, the European Stability Mechanism, and the Swiss National Bank. My work has been published in the _Journal of International Economics_ and the _Review of Economic Dynamics_, and includes ongoing projects on sovereign debt, limited commitment, and moral hazard.
+Previously, I held visiting and research positions at the University of Pennsylvania, the European Stability Mechanism, and the Swiss National Bank. My work has been published in the _Journal of International Economics_ and the _Review of Economic Dynamics_, and includes ongoing projects on sovereign debt, foreign reserves, limited commitment, and moral hazard.
 
 My current teaching includes courses on **Advanced International Macroeconomics** and **International Money and Finance** at the University of Basel.
 
