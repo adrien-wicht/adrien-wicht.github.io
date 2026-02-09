@@ -41,7 +41,7 @@ ninja.data = [{
           section: "News",handler: () => {
               window.location.href = "/news/announcement_3/";
             },},{id: "news-new-project-on-foreign-reserve-accumulation",
-          title: 'New project on foreign reserve accumulation',
+          title: 'New Project on Foreign Reserve Accumulation',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_1/";
