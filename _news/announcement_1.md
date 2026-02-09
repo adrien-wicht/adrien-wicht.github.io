@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New project on foreign reserve accumulation
+title: New Project on Foreign Reserve Accumulation
 date: 2026-02-02 09:00:00 +0200
 inline: false
 related_posts: false
