@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Website Refreshed"
-date: 2025-08-21 12:00:00 +0200
-inline: true
+title: New project on foreign reserve accumulation
+date: 2026-02-08 09:00:00 +0200
+inline: false
 related_posts: false
 ---
 
-I am presenting "Risk Sharing and Risk Reduction with Moral Hazard" joint with Ramon and Luca at the 2025 World Congress of the Econometric Society in Seoul.
+I have started a new project called "A Joint Theory of Sovereign Debt and Foreign Reserves Accumulation". You can find the preliminary draft under my [Research](/research/).
