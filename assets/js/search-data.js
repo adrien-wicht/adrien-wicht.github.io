@@ -40,10 +40,12 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_3/";
-            },},{id: "news-i-am-presenting-risk-sharing-and-risk-reduction-with-moral-hazard-joint-with-ramon-and-luca-at-the-2025-world-congress-of-the-econometric-society-in-seoul",
-          title: 'I am presenting “Risk Sharing and Risk Reduction with Moral Hazard” joint with...',
+            },},{id: "news-new-project-on-foreign-reserve-accumulation",
+          title: 'New project on foreign reserve accumulation',
           description: "",
-          section: "News",},{
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_1/";
+            },},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
