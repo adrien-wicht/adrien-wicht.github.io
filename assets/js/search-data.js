@@ -40,11 +40,6 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_3/";
-            },},{id: "news-new-project-on-foreign-reserve-accumulation",
-          title: 'New Project on Foreign Reserve Accumulation',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_1/";
             },},{id: "news-revised-draft-for-quot-the-generalized-euler-equation-and-the-bankruptcy-sovereign-default-problem-quot",
           title: 'Revised draft for &amp;quot;The Generalized Euler Equation and the Bankruptcy-Sovereign Default Problem&amp;quot;',
           description: "",
