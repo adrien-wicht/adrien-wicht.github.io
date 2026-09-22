@@ -5,7 +5,7 @@
     "image": "/assets/img/prof_pic_color.png",
     "email": "adrien.wicht@unibas.ch",
     "url": "https://adrien-wicht.github.io/",
-    "summary": "Postdoctoral researcher in international economics. Research focuses on sovereign debt, macroeconomics, recursive contracts, and international finance.",
+    "summary": "Postdoctoral researcher in international economics. Research focuses on macroeconomics, international economics, sovereign debt, public finance, and recursive contracts.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -31,7 +31,7 @@
       "name": "University of Basel",
       "position": "Postdoc in International Economics",
       "url": "",
-      "startDate": "2023-11-01",
+      "startDate": "2024-03-01",
       "endDate": "",
       "summary": "Principal Investigator: Andreas Müller.",
       "highlights": []
@@ -206,13 +206,13 @@
       "name": "Economics",
       "level": "",
       "icon": "",
-      "keywords": ["Macroeconomics", "International Economics", "Sovereign Debt", "Recursive Contracts"]
+      "keywords": ["Macroeconomics", "International Economics", "Sovereign Debt", "Public Finance", "Recursive Contracts"]
     },
     {
       "name": "Programming and Data Tools",
       "level": "",
       "icon": "",
-      "keywords": ["Excel VBA", "Fortran", "Julia", "Matlab", "MySQL", "OpenAI ChatGPT", "OpenMP", "QGIS", "R", "Stata"]
+      "keywords": [ "Anthropic Claude","Excel VBA", "Fortran", "Julia", "Matlab", "MySQL", "OpenAI ChatGPT", "OpenMP", "Python", "QGIS", "R", "Stata"]
     },
     {
       "name": "Text Editing",
@@ -252,7 +252,7 @@
     {
       "name": "Economics",
       "icon": "",
-      "keywords": ["Macroeconomics", "International Economics", "Sovereign Debt", "Recursive Contracts"]
+      "keywords": ["Macroeconomics", "International Economics", "Sovereign Debt", "Public Finance", "Recursive Contracts"]
     }
   ],
   "references": [
@@ -275,10 +275,10 @@
   "projects": [
     {
       "name": "Efficient Sovereign Debt Buybacks",
-      "summary": "Explores the conditions under which sovereign debt buybacks are Pareto efficient using a model of strategic lending.",
-      "highlights": ["Sovereign contract design", "Market power in secondary markets"],
-      "startDate": "2025-01-01",
-      "endDate": "2025-01-01",
+      "summary": "Job Market Paper",
+      "highlights": ["Sovereign debt management", "Contract design"],
+      "startDate": "2026-01-01",
+      "endDate": "2026-01-01",
       "url": ""
     }
   ]

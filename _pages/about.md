@@ -5,7 +5,7 @@ permalink: /
 redirect_from:
   - /profile/
   - /profile
-subtitle: <a href='https://wwz.unibas.ch/en/international-macroeconomics/'>University of Basel</a>. Basel, Switzerland. Contact and affiliations.
+subtitle: <a href='https://wwz.unibas.ch/en/international-macroeconomics/'>University of Basel</a>. Basel, Switzerland.
 
 profile:
   align: right
@@ -26,9 +26,9 @@ announcements:
   limit: 5
 ---
 
-I am a Postdoctoral Researcher in International Economics at the University of Basel. My research interests lie at the intersection of **macroeconomics**, **international economics**, **sovereign debt**, and **recursive contracts**. I completed my PhD at the European University Institute in 2024, where I was supervised by Ramon Marimon and Alexander Monge-Naranjo.
+I am a Postdoctoral Researcher in International Economics at the University of Basel. My research interests lie at the intersection of **macroeconomics**, **international economics**, **sovereign debt**, **public finance**, and **recursive contracts**. I completed my PhD at the European University Institute in 2024, where I was supervised by Ramon Marimon and Alexander Monge-Naranjo.
 
-Previously, I held visiting and research positions at the University of Pennsylvania, the European Stability Mechanism, and the Swiss National Bank. My work has been published in the _Journal of International Economics_ and the _Review of Economic Dynamics_, and includes ongoing projects on sovereign debt, foreign reserves, limited commitment, and moral hazard.
+Previously, I held visiting and research positions at the University of Pennsylvania, the European Stability Mechanism, and the Swiss National Bank. My work has been published in the _Journal of International Economics_ and the _Review of Economic Dynamics_, and includes ongoing projects on sovereign debt, foreign reserves, climate risk, and moral hazard.
 
 My current teaching includes courses on **Advanced International Macroeconomics** and **International Money and Finance** at the University of Basel.
 
